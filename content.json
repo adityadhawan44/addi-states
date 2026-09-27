@@ -1,0 +1,105 @@
+{
+  "publication": {
+    "name": "Shweta",
+    "tagline": "Law · Rights · Independent Thought",
+    "description": "Legal research, case analysis and perspectives on the questions that shape our lives.",
+    "locale": "en-IN",
+    "jurisdiction": "India",
+    "author": "Shweta",
+    "reviewed": "27 September 2026"
+  },
+  "articles": [
+    {
+      "slug": "shape-of-freedom", "type": "article", "category": "Society", "topics": ["independence", "women's rights", "society"],
+      "title": "The shape of freedom", "subtitle": "Can a woman be legally independent without being financially independent?",
+      "date": "18 September 2026", "minutes": 8, "summary": "Rights on paper are only part of the story. This essay looks at the relationship between financial agency and the freedom to make a life on your own terms.",
+      "sections": [
+        {"id":"the-question","heading":"The question behind the question","text":"Legal independence is often described as a status: the capacity to own property, enter agreements, make choices and seek a remedy. Everyday independence is also shaped by whether a person has the resources to act on those choices. The distance between the two is where this question begins."},
+        {"id":"financial-agency","heading":"Financial agency changes the choices available","text":"Income, access to accounts, control over assets and the ability to understand financial commitments can all affect how freely someone can decide. These are not substitutes for legal rights. They are part of the conditions that make rights usable in ordinary life."},
+        {"id":"law-and-life","heading":"Law and lived experience","text":"A legal rule can create an entitlement, set a process or prohibit discrimination. It cannot, by itself, remove every social or economic barrier that makes an entitlement difficult to exercise. Good legal analysis asks both what a rule says and how its design works in practice."},
+        {"id":"independence","heading":"Independence is built, not declared","text":"The useful question may not be whether legal and financial independence are identical. They are not. It may be whether institutions, families and public systems make it possible for a person to turn formal rights into real choices. That is a question worth returning to."}
+      ],
+      "sources": [{"label":"Constitution of India — Legislative Department","url":"https://legislative.gov.in/constitution-of-india/"}],
+      "related": ["stridhan-explained", "independence-is-not-a-single-moment"], "reviewed": "27 September 2026"
+    },
+    {
+      "slug": "stridhan-explained", "type": "article", "category": "Women's rights", "topics": ["property", "marriage & family", "women's rights"],
+      "title": "Stridhan, explained", "subtitle": "What belongs to you—and why the distinction matters.",
+      "date": "12 September 2026", "minutes": 7, "summary": "A plain-language starting point for understanding stridhan in Indian law, the Supreme Court's recognition of a woman's ownership, and why facts and documentation matter.",
+      "sections": [
+        {"id":"meaning","heading":"What the term means","text":"Stridhan generally refers to property that belongs to a woman in her own right. The Supreme Court has discussed gifts and property given before, at, or after marriage as a woman's absolute property in appropriate circumstances. The exact classification depends on the facts, the applicable personal law and the evidence."},
+        {"id":"ownership","heading":"Ownership is different from possession","text":"A question can arise when another person holds jewellery, documents or other property. Possession alone does not determine ownership. Records of purchase, gifts, messages, inventories and witnesses may help establish what was given and to whom. Keep copies of relevant records in a secure place."},
+        {"id":"case-law","heading":"What Pratibha Rani clarified","text":"In Pratibha Rani v. Suraj Kumar, the Supreme Court considered a wife's stridhan and a criminal breach of trust allegation. The judgment is commonly cited for recognizing that stridhan does not become joint property simply because of marriage. Read the judgment itself and its later treatment before applying the principle to a particular dispute."},
+        {"id":"next-steps","heading":"If property is being withheld","text":"The available steps depend on the relationship, the type of property, the evidence and the remedies that apply. A qualified lawyer or legal-aid service can help assess the options. This overview is educational and is not a substitute for advice about an individual matter."}
+      ],
+      "sources": [{"label":"Supreme Court of India — eSCR judgment search (search: Pratibha Rani v. Suraj Kumar)","url":"https://scr.sci.gov.in/scrsearch/"},{"label":"Hindu Succession Act, 1956 — India Code","url":"https://www.indiacode.nic.in/"}],
+      "related": ["vishaka-v-state-of-rajasthan", "vineeta-sharma-v-rakesh-sharma"], "reviewed": "27 September 2026"
+    },
+    {
+      "slug": "workplace-harassment-law", "type": "article", "category": "Law", "topics": ["workplace", "POSH", "women's rights"],
+      "title": "The workplace harassment law, in plain language", "subtitle": "A guide to the Indian framework for prevention, prohibition and redressal.",
+      "date": "08 September 2026", "minutes": 9, "summary": "The POSH Act creates duties for workplaces and a process for complaints of sexual harassment. This guide maps the main parts of that framework without replacing the statute or professional advice.",
+      "sections": [
+        {"id":"framework","heading":"The legal framework","text":"The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 provides a framework for preventing and addressing sexual harassment at work in India. The statute and rules define the relevant terms, institutional responsibilities, complaint mechanisms and timelines. Always check the current official text and applicable rules."},
+        {"id":"committees","heading":"Internal and Local Committees","text":"The Act provides for Internal Committees at workplaces that meet the statutory criteria and Local Committees at district level for specified situations. Committee composition, independence, procedure and jurisdiction matter. The correct forum can depend on the workplace and the circumstances."},
+        {"id":"process","heading":"A process with safeguards","text":"The statute sets out how a complaint may be made, how conciliation may be considered, how an inquiry proceeds and what recommendations can follow. Confidentiality and fair process obligations apply. A person facing a workplace issue may wish to preserve relevant records and obtain advice about timing and the appropriate forum."},
+        {"id":"context","heading":"Why the Vishaka judgment still matters","text":"Before Parliament enacted the 2013 statute, the Supreme Court's Vishaka judgment laid down workplace guidelines to address a legal vacuum. The case remains an important part of the history of this field. The current statute, not an old summary, should be consulted for today's process."}
+      ],
+      "sources": [{"label":"Sexual Harassment of Women at Workplace Act, 2013 — India Code","url":"https://www.indiacode.nic.in/"},{"label":"Supreme Court of India — eSCR judgment search (search: Vishaka v. State of Rajasthan)","url":"https://scr.sci.gov.in/scrsearch/"}],
+      "related": ["vishaka-v-state-of-rajasthan", "workplace"], "reviewed": "27 September 2026"
+    },
+    {
+      "slug": "independence-is-not-a-single-moment", "type": "perspective", "category": "Perspective", "topics": ["independence", "society", "culture"],
+      "title": "Independence is not a single moment", "subtitle": "On the small, everyday choices that make autonomy real.",
+      "date": "02 September 2026", "minutes": 5, "summary": "A personal essay on autonomy as a practice shaped by ordinary decisions, relationships and the room people are given to change their minds.",
+      "sections": [
+        {"id":"ordinary","heading":"The ordinary choices","text":"We often tell stories of independence as if it arrives in one decisive scene. In real life it can look quieter: asking a question, keeping a promise to yourself, learning a new skill, or changing direction after you learn more."},
+        {"id":"room","heading":"Room to choose","text":"Choice is meaningful when there is room to make it without losing dignity or safety. That room is shaped by relationships, institutions, money, time and culture. Recognizing those conditions does not diminish agency. It gives us a clearer view of what agency needs."},
+        {"id":"questions","heading":"A continuing practice","text":"Independence may be less like a finish line and more like a practice: noticing what is yours to decide, asking for the information you need and respecting the same capacity in others. It is unfinished, and that may be the point."}
+      ],
+      "sources": [], "related": ["shape-of-freedom", "vishaka-v-state-of-rajasthan"], "reviewed": "27 September 2026"
+    }
+  ],
+  "cases": [
+    {
+      "slug":"vishaka-v-state-of-rajasthan", "court":"Supreme Court of India", "year":1997, "date":"13 August 1997", "area":"Workplace · Equality · Women's rights", "citation":"(1997) 6 SCC 241",
+      "title":"Vishaka v. State of Rajasthan", "question":"How should workplace sexual harassment be addressed when there is no specific domestic legislation?",
+      "facts":"The petitions followed the assault of Bhanwari Devi, a social worker in Rajasthan, and raised the absence of an adequate legal framework addressing sexual harassment at work. Women's groups sought enforcement of fundamental rights and protective measures.",
+      "decision":"The Supreme Court treated workplace sexual harassment as a violation of constitutional guarantees and issued guidelines for workplaces pending legislation. Parliament later enacted the 2013 POSH Act.",
+      "why":"The decision is a landmark example of the Court articulating safeguards in a legislative gap. It is essential historical context, while current workplace responsibilities should be read from the 2013 Act and its rules.",
+      "source":"https://scr.sci.gov.in/scrsearch/", "sourceLabel":"Supreme Court of India eSCR — search the case name", "related":["workplace-harassment-law","workplace"]
+    },
+    {
+      "slug":"pratibha-rani-v-suraj-kumar", "court":"Supreme Court of India", "year":1985, "date":"12 March 1985", "area":"Criminal law · Marriage · Property", "citation":"(1985) 2 SCC 370",
+      "title":"Pratibha Rani v. Suraj Kumar", "question":"Can allegations about a married woman's stridhan raise a criminal breach of trust issue?",
+      "facts":"The appellant alleged that her husband and members of his family had retained her stridhan. The case considered whether those allegations could support criminal proceedings, including under the law on criminal breach of trust.",
+      "decision":"The Supreme Court held that the complaint could proceed. It recognized that a woman's stridhan is her property and that entrustment and dishonest misappropriation may be relevant to a criminal breach of trust allegation, subject to proof and the applicable law.",
+      "why":"The case is frequently cited in discussions of a woman's separate property after marriage. It does not determine the facts or outcome of any other person's dispute.",
+      "source":"https://scr.sci.gov.in/scrsearch/", "sourceLabel":"Supreme Court of India eSCR — search the case name", "related":["stridhan-explained","money-property"]
+    },
+    {
+      "slug":"vineeta-sharma-v-rakesh-sharma", "court":"Supreme Court of India", "year":2020, "date":"11 August 2020", "area":"Family law · Inheritance · Equality", "citation":"(2020) 9 SCC 1",
+      "title":"Vineeta Sharma v. Rakesh Sharma", "question":"How does the 2005 amendment to section 6 of the Hindu Succession Act affect daughters' coparcenary rights?",
+      "facts":"A three-judge bench considered conflicting approaches to the amended section 6 and the circumstances in which daughters acquire coparcenary status in a Mitakshara joint Hindu family.",
+      "decision":"The Court held that the amended section 6 confers coparcenary status on a daughter by birth, in the same manner as a son, with the same rights and liabilities. It also held that the father's being alive on 9 September 2005 is not a requirement. Statutory limits and prior transactions still matter.",
+      "why":"The judgment clarified an important question about the 2005 amendment. Its application depends on the relevant property, succession facts, statutory exceptions and prior transactions; the judgment should be read in full.",
+      "source":"https://main.sci.gov.in/supremecourt/2018/32601/32601_2018_33_1501_23387_Judgement_11-Aug-2020.pdf", "sourceLabel":"Full judgment — Supreme Court of India (PDF)", "related":["shape-of-freedom","money-property"]
+    }
+  ],
+  "rights": [
+    {"slug":"marriage-family","title":"Marriage & family","intro":"Understand common legal questions about marriage, family relationships and personal property.","topics":["Stridhan and personal property","Maintenance","Divorce and separation","Custody and guardianship","Domestic violence protections"],"links":["stridhan-explained","pratibha-rani-v-suraj-kumar"]},
+    {"slug":"workplace","title":"Workplace","intro":"Explore the legal framework around safety, equality and the terms of work in India.","topics":["POSH and workplace harassment","Maternity benefits","Discrimination and equality","Employment contracts","Internal and Local Committees"],"links":["workplace-harassment-law","vishaka-v-state-of-rajasthan"]},
+    {"slug":"money-property","title":"Money & property","intro":"Start with ownership, inheritance and the documents that help make rights visible.","topics":["Stridhan","Inheritance and succession","Property records","Financial agreements","Daughters' coparcenary rights"],"links":["stridhan-explained","vineeta-sharma-v-rakesh-sharma"]},
+    {"slug":"online-safety","title":"Online safety","intro":"A starting point for privacy, harassment and safety in digital spaces.","topics":["Cyberstalking and online harassment","Privacy and personal data","Image-based abuse","Identity theft","Preserving digital evidence"],"links":["workplace-harassment-law"]},
+    {"slug":"education","title":"Education","intro":"Explore questions of access, safety and equal opportunity in education.","topics":["Equal access","Campus safety","Anti-discrimination processes","Scholarship terms","Complaints and grievance channels"],"links":["vishaka-v-state-of-rajasthan"]},
+    {"slug":"business","title":"Business & work","intro":"A practical orientation to contracts, business relationships and professional rights.","topics":["Reading a contract","Workplace policies","Starting a business","Payment and invoices","Fair and safe workplaces"],"links":["workplace-harassment-law","shape-of-freedom"]}
+  ],
+  "research": [
+    {"slug":"workplace-rights-guide","kind":"Legal guide","status":"Preview","title":"Women's rights in the workplace","subtitle":"A research guide to the Indian framework for safety, equality and redressal.","pages":"Guide preview","summary":"An editorial outline for a future, fully sourced guide. The current preview maps major statutes and themes; it is not legal advice or a complete research report.","topics":["POSH Act, 2013","Vishaka and the legal framework","Workplace process and safeguards","Further reading"],"related":["workplace-harassment-law","vishaka-v-state-of-rajasthan"]},
+    {"slug":"property-case-compilation","kind":"Case compilation","status":"Open access","title":"Women, property and the courts","subtitle":"A curated starting collection of judgments and commentary.","pages":"3 case files","summary":"A growing collection connecting leading Supreme Court decisions on personal property, succession and equality.","topics":["Pratibha Rani v. Suraj Kumar","Vineeta Sharma v. Rakesh Sharma","Related explainers"],"related":["pratibha-rani-v-suraj-kumar","vineeta-sharma-v-rakesh-sharma"]},
+    {"slug":"research-method","kind":"Research note","status":"Open access","title":"How we read a judgment","subtitle":"A short note on method, context and sources.","pages":"Editorial note","summary":"A clear case analysis distinguishes the facts, legal questions, reasoning, decision and later legal developments. It starts with the judgment and keeps citations visible.","topics":["Primary sources first","Distinguishing holding from commentary","Checking subsequent treatment","Marking updates"],"related":["vishaka-v-state-of-rajasthan","vineeta-sharma-v-rakesh-sharma"]}
+  ],
+  "briefs": [
+    {"slug":"brief-001","number":"001","date":"September 2026","title":"One case. One clear explanation.","summary":"The first issue introduces the Shweta Brief: a considered note on an important judgment, a legal development and what it means.","sections":[["The Case","Vishaka v. State of Rajasthan and the origins of workplace safeguards."],["The Law","The POSH Act, 2013 is the current statutory framework."],["What it means","Historical context matters. Start with the current statute when looking for today's process."]]}
+  ]
+}
